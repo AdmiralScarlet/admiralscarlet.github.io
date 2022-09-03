@@ -572,13 +572,13 @@ textarea,
   order: 1;
 }
 .typeMacOS-3V4xXE:before {
-  content: "CV";
+  content: "AdmiralScarlet";
   color: var(--main-color);
   font-weight: 700;
   text-shadow: 0 0 3px;
 }
 .typeMacOS-3V4xXE:after {
-  content: "6.3.0";
+  content: "4.6.0";
   color: rgba(255, 255, 255, 0.3);
 }
 .sidebar-1tnWFu {
